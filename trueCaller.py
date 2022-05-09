@@ -1,7 +1,7 @@
 import requests
 import json
 
-phNo = "8971870652"
+phNo = "0000000000"
 country = "in"
 url = "https://asia-south1-truecaller-web.cloudfunctions.net/api/noneu/search/v1?q=" + \
     phNo + "&countryCode=" + country
